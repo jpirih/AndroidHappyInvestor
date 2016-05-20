@@ -27,4 +27,11 @@
         android:textColor="#FFFFFF"
         android:background="#FF0D00"/>
 
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lisFacebookStocks"
+        android:layout_below="@+id/fbBackBtn"
+        android:layout_marginTop="20dp" />
+
 </RelativeLayout>

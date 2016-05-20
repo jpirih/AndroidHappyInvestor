@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HappyInvestor</string>
+    <string name="price">%1$.2f USD</string>
 </resources>
