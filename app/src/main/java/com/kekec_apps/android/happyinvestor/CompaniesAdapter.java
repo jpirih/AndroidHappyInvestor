@@ -11,7 +11,7 @@ import com.kekec_apps.android.happyinvestor.model.StockData;
 
 /**
  * Created by Janko on 20.5.2016.
- */
+
 public class CompaniesAdapter extends BaseAdapter {
     private final LayoutInflater inflater;
     private StockData[] data;
@@ -39,9 +39,9 @@ public class CompaniesAdapter extends BaseAdapter {
         return data[position];
     }
 
-    @Override
-    public long getItemId(int position) {
-        return getItem(position).getId();
+    //@Override
+    //public int getItemId(int position) {
+      //  return getItem(position);
     }
 
     @Override
@@ -60,3 +60,4 @@ public class CompaniesAdapter extends BaseAdapter {
         return view;
     }
 }
+ */

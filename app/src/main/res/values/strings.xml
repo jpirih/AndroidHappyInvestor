@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">HappyInvestor</string>
     <string name="price">%1$.2f USD</string>
+    <string name="alphabet_back_btn_text">Nazaj</string>
+    <string name="alphabet_activity_title">Google stocks data</string>
 </resources>
